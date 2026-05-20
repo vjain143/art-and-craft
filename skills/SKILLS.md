@@ -14,6 +14,8 @@
 | [technical-writing.md](technical-writing.md) | Architecture | 2026-05-20 |
 | [data-modeling.md](data-modeling.md) | Architecture / DBT | 2026-05-20 |
 | [stakeholder-comms.md](stakeholder-comms.md) | Leadership | 2026-05-20 |
+| [tech-evaluation.md](tech-evaluation.md) | Architecture | 2026-05-20 |
+| [cost-capacity-planning.md](cost-capacity-planning.md) | FinOps | 2026-05-20 |
 
 ---
 
