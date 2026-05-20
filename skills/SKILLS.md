@@ -10,6 +10,7 @@
 | [dbt.md](dbt.md) | DBT | 2026-05-20 |
 | [incident-response.md](incident-response.md) | Ops | 2026-05-20 |
 | [health-monitoring.md](health-monitoring.md) | Ops | 2026-05-20 |
+| [architecture-review.md](architecture-review.md) | Architecture | 2026-05-20 |
 
 ---
 
